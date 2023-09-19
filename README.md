@@ -1,4 +1,6 @@
 <h1><center>Facial Emotion Recognition</center></h1>
+![Facial](https://github.com/SHANJAY975/Face_Emotion/assets/55045545/1059390d-9568-4e42-abc3-a317969a914c)
+
 
 **Facial emotion recognition is a cutting-edge technology that uses artificial intelligence and computer algorithms to analyze facial expressions to understand human emotions. Its various uses cut across a range of industries, from improving commercial customer service to advancing the understanding and management of mental illness.**
 
