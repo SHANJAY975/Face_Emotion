@@ -12,13 +12,13 @@
 These instructions will get this model up and running. Follow them to make use of the model to recognize facial emotions using custom images. This model can also be used as facial emotion recognition part of projects with broader applications
 # Prerequisites
 Install these prerequisites before proceeding-
-```pip install scikit-learn-intelex```
-```pip3 install tensorflow```
-```pip3 install keras```
-```pip3 install numpy```
-```pip3 install sklearn```
-```pip3 install pandas```
-```pip3 install matplotlib```
+*```pip install scikit-learn-intelex```
+*```pip3 install tensorflow```
+*```pip3 install keras```
+*```pip3 install numpy```
+*```pip3 install sklearn```
+*```pip3 install pandas```
+*```pip3 install matplotlib```
 
 # Cloning 
 First step is to Clone the repository
@@ -53,11 +53,12 @@ git clone https://github.com/SHANJAY975/Face_Emotion
 # PreTrained Model :
 * To use Pretrained model run the following code
 * Importng the Libraries
-  ```import tensorflow as tf
-     from tensorflow.keras.models import load_model
-  ```
+```import tensorflow as tf
+   from tensorflow.keras.models import load_model
+```
 * Loading the model
-```model = load_model('best_model.h5')
+```
+model = load_model('best_model.h5')
 ```
 * Make predictions using the loaded model
 ```
