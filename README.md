@@ -42,7 +42,10 @@ First step is to Clone the repository
 ```
 git clone https://github.com/SHANJAY975/Face_Emotion
 ```
-
+# Dataset
+'''
+https://www.kaggle.com/datasets/deadskull7/fer2013
+'''
 # Running on Local Machine:
 * Navigate to the cloned directory
 * Open .ipynb using Jupter lab
@@ -66,8 +69,19 @@ git clone https://github.com/SHANJAY975/Face_Emotion
   ```unzip Face_Emotion.zip```
 * Open Face_emotion.ipynb file
 <img width="1440" alt="run" src="https://github.com/SHANJAY975/Face_Emotion/assets/55045545/5b6dac68-c90d-4b43-b93e-2af24839e9ce">
+# Visualizing Loss
+<img width="545" alt="Screenshot 2023-09-20 at 12 12 09 PM" src="https://github.com/SHANJAY975/Face_Emotion/assets/55045545/c7185d24-3e17-4c6c-a62c-5122cc0ff2a8">
 
-# PreTrained Model :
+# Visualizing Accuracy
+<img width="564" alt="Screenshot 2023-09-20 at 12 13 11 PM" src="https://github.com/SHANJAY975/Face_Emotion/assets/55045545/52348e12-8aa9-41a9-8880-e15570f3e994">
+
+# Getting the Confusion Matrix 
+<img width="982" alt="Screenshot 2023-09-20 at 12 12 45 PM" src="https://github.com/SHANJAY975/Face_Emotion/assets/55045545/f3950d49-b145-43da-b210-59f43d6933e1">
+
+# Predictions
+<img width="968" alt="Screenshot 2023-09-20 at 12 13 35 PM" src="https://github.com/SHANJAY975/Face_Emotion/assets/55045545/9f3daacf-768f-4cbd-8b21-224c854425d0">
+
+# PreTrained Model 
 * To use Pretrained model run the following code
 * Importng the Libraries
 ```import tensorflow as tf
