@@ -69,7 +69,9 @@ https://www.kaggle.com/datasets/deadskull7/fer2013
   ```unzip Face_Emotion.zip```
 * Open Face_emotion.ipynb file
 <img width="1440" alt="run" src="https://github.com/SHANJAY975/Face_Emotion/assets/55045545/5b6dac68-c90d-4b43-b93e-2af24839e9ce">
+
 # Visualizing Loss
+
 <img width="545" alt="Screenshot 2023-09-20 at 12 12 09 PM" src="https://github.com/SHANJAY975/Face_Emotion/assets/55045545/c7185d24-3e17-4c6c-a62c-5122cc0ff2a8">
 
 # Visualizing Accuracy
