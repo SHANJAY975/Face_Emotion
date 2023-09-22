@@ -43,9 +43,9 @@ First step is to Clone the repository
 git clone https://github.com/SHANJAY975/Face_Emotion
 ```
 # Dataset
-'''
+```
 https://www.kaggle.com/datasets/deadskull7/fer2013
-'''
+```
 # Running on Local Machine:
 * Navigate to the cloned directory
 * Open .ipynb using Jupter lab
